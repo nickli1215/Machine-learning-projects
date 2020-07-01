@@ -1,0 +1,4 @@
+Data set consists of different seeds as well as their features and their type. 
+There are 3 types of wheat seeds, Kama, Rose and Canadian. 
+This is a simple classifier that uses sigmoid activation on the features to classify the seed based on its features.
+
