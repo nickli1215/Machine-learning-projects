@@ -1,0 +1,3 @@
+This goal of this project is to classify clothes from the fashion MNIST dataset, more info here: https://github.com/zalandoresearch/fashion-mnist
+I used a neural network with a single convolutional layer and 2 linear layers, and found that this was the most complex I could make my algorithm without my computer crashing.
+I was able to get the accuracy on testing data to about 88%.
