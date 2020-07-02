@@ -1,2 +1,2 @@
 # ML-for-fun
-This repo has all of my machine learning side projects.
+This repo has my machine learning projects
